@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.jpg",
+    "description": "A Responsive Travel Website.",
+    "skills": ["Html", "Css", "JS"],
+    "demo": "https://my-travel-landingpage.netlify.app",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.jpg",
+    "description": "Stopwatch Application with Extra-Features.",
+    "skills": ["Html", "Css", "JS"],
+    "demo": "https://stopwatch-omi.netlify.app",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.jpg",
+    "description": "Tic-Tac-Toe Web-application.",
+    "skills": ["Html", "Css", "JS"],
+    "demo": "https://tic-tac-toe-omi.netlify.app",
+    "source": "https://www.github.com"
+  }
+  ,
+  {
+    "title": "Project D",
+    "imageSrc": "projects/project.jpg",
+    "description": "Weather App.",
+    "skills": ["Html", "Css", "JS"],
+    "demo": "https://my-weather-appi.netlify.app",
+    "source": "https://www.github.com"
+  }
+
+]
